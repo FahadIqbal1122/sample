@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=Iqbolshoh+Ilhomjonov;Full-Stack+Developer+from+Samarkand;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=FahadIqbal1122+Ilhomjonov;Full-Stack+Developer+from+Samarkand;">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbolshoh&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadIqbal1122&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
     align="center" width="100%" />
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🎓 **Education:** Samarkand State University, Software Engineering, 3rd Year Student
 - 💻 **Occupation:** Full-Stack Developer
 - 🚀 **Experience:** 3+ Years in Programming
-- 🔗 **Website:** [iqbolshoh.uz](https://iqbolshoh.uz)
+- 🔗 **Website:** [FahadIqbal1122.uz](https://FahadIqbal1122.uz)
 - ✉️ **Contact:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com) | <a href="tel:+9989997799333">Tell: +998(99)7799333</a>
 
 ### 🌐 Languages I Speak
@@ -106,45 +106,45 @@ applications. 🚀💻
 ### 🏆 Coding Profiles:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-    <a href="https://www.codewars.com/users/Iqbolshoh_777" target="_blank">Codewars</a> |
-    <a href="https://leetcode.com/Iqbolshoh_777" target="_blank">LeetCode</a> |
-    <a href="https://codeforces.com/profile/Iqbolshoh_777" target="_blank">Codeforces</a> |
-    <a href="https://kep.uz/profile/Iqbolshoh_777" target="_blank">Kep.uz</a> |
-    <a href="https://robocontest.uz/profile/Iqbolshoh_777" target="_blank">Robocontest.uz</a>
+    <a href="https://www.codewars.com/users/FahadIqbal1122_777" target="_blank">Codewars</a> |
+    <a href="https://leetcode.com/FahadIqbal1122_777" target="_blank">LeetCode</a> |
+    <a href="https://codeforces.com/profile/FahadIqbal1122_777" target="_blank">Codeforces</a> |
+    <a href="https://kep.uz/profile/FahadIqbal1122_777" target="_blank">Kep.uz</a> |
+    <a href="https://robocontest.uz/profile/FahadIqbal1122_777" target="_blank">Robocontest.uz</a>
 </div>
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=iqbolshoh&show_icons=true&theme=radical"
+<img src="https://github-readme-stats.vercel.app/api?username=FahadIqbal1122&show_icons=true&theme=radical"
     alt="GitHub Stats" width="100%">
 
 ## Top Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqbolshoh&theme=radical"
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahadIqbal1122&theme=radical"
     alt="Coding Stats" width="47.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbolshoh&layout=compact&theme=radical"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadIqbal1122&layout=compact&theme=radical"
     alt="Top Languages" width="50.5%">
 
 ## Top Repositories
 
-<a href="https://github.com/Iqbolshoh/php-mysql-marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-mysql-marketplace&theme=radical"
+<a href="https://github.com/FahadIqbal1122/php-mysql-marketplace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahadIqbal1122&repo=php-mysql-marketplace&theme=radical"
         alt="Top Repositories" width="49%">
 </a>
 
-<a href="https://github.com/Iqbolshoh/php-user-admin-roles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbolshoh&repo=php-user-admin-roles&theme=radical"
+<a href="https://github.com/FahadIqbal1122/php-user-admin-roles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FahadIqbal1122&repo=php-user-admin-roles&theme=radical"
         alt="Top Repositories" width="49%">
 </a>
 
 ## GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=iqbolshoh&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=FahadIqbal1122&theme=radical&column=4" alt="GitHub Trophy" width="100%" />
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-1.jpg" alt="iqbolshoh" width="32%">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-4.jpg" alt="iqbolshoh" width="32%">
-    <img src="https://github.com/iqbolshoh/Iqbolshoh/blob/main/images/iqbolshoh-3.jpg" alt="iqbolshoh" width="32%">
+    <img src="https://github.com/FahadIqbal1122/FahadIqbal1122/blob/main/images/FahadIqbal1122-1.jpg" alt="FahadIqbal1122" width="32%">
+    <img src="https://github.com/FahadIqbal1122/FahadIqbal1122/blob/main/images/FahadIqbal1122-4.jpg" alt="FahadIqbal1122" width="32%">
+    <img src="https://github.com/FahadIqbal1122/FahadIqbal1122/blob/main/images/FahadIqbal1122-3.jpg" alt="FahadIqbal1122" width="32%">
 </div>
 
 ## Connect with Me
@@ -154,25 +154,25 @@ I love connecting with new people and exploring new opportunities. Feel free to 
 <table>
     <tr>
         <td>
-            <a href="https://github.com/iqbolshoh">
+            <a href="https://github.com/FahadIqbal1122">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                     height="48" width="48" alt="GitHub" />
             </a>
         </td>
         <td>
-            <a href="https://t.me/iqbolshoh_777">
+            <a href="https://t.me/FahadIqbal1122_777">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
                     height="48" width="48" alt="Telegram" />
             </a>
         </td>
         <td>
-            <a href="https://www.linkedin.com/in/iiqbolshoh/">
+            <a href="https://www.linkedin.com/in/iFahadIqbal1122/">
                 <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg"
                     height="48" width="48" alt="LinkedIn" />
             </a>
         </td>
         <td>
-            <a href="https://instagram.com/iqbolshoh_777" target="blank"><img align="center"
+            <a href="https://instagram.com/FahadIqbal1122_777" target="blank"><img align="center"
                     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                     alt="instagram" height="48" width="48" /></a>
         </td>
@@ -183,7 +183,7 @@ I love connecting with new people and exploring new opportunities. Feel free to 
             </a>
         </td>
         <td>
-            <a href="https://x.com/iqbolshoh_777">
+            <a href="https://x.com/FahadIqbal1122_777">
                 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="48"
                     width="48" alt="Twitter" />
             </a>
