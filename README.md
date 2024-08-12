@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=FahadIqbal1122+Ilhomjonov;Full-Stack+Developer+from+Samarkand;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=57&center=true&vCenter=true&width=1200&height=120&lines=Fahad+Iqbal;Full-Stack+Developer+from+Bahrain;">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadIqbal1122&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&card_width=860&fire=EB5454&ring=58A6FF&stroke=1F6FEB&currStreakNum=EB5454&sideNums=1F6FEB&dates=1F6FEB"
     align="center" width="100%" />
@@ -11,18 +11,18 @@
 
 ## About Me
 
-- 🌍 **Location:** Samarkand, Uzbekistan
-- 🎓 **Education:** Samarkand State University, Software Engineering, 3rd Year Student
+- 🌍 **Location:** Riffa, Bahrain
+- 🎓 **Education:** General Assembly Bahrain, Software Engineering | Information Systems Graduate.
 - 💻 **Occupation:** Full-Stack Developer
 - 🚀 **Experience:** 3+ Years in Programming
-- 🔗 **Website:** [FahadIqbal1122.uz](https://FahadIqbal1122.uz)
-- ✉️ **Contact:** [iilhomjonov777@gmail.com](mailto:iilhomjonov777@gmail.com) | <a href="tel:+9989997799333">Tell: +998(99)7799333</a>
+- 🔗 **Website:** [fahadiqbal.me](https://fahadiqbal.me)
+- ✉️ **Contact:** [fahadiqbal.fd14@gmail.com](mailto:fahadiqbal.fd14@gmail.com) | <a href="tel:+97339245587">Tell: +973 3924 5587</a>
 
 ### 🌐 Languages I Speak
 
 <ul style="list-style-type: none; padding: 0; margin: 20px; max-width: 300px;">
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
-        Tajik <img src="./images/tajikistan-flag.png" alt="Tajikistan Flag" width="30px"
+        Tajik <img src="https://flagsapi.com/PK/shiny/64.png" alt="Pakistan Flag" width="30px"
             style="margin-left: 10px; border-radius: 4px; transition: transform 0.3s;">
     </li>
     <li style="display: flex; align-items: center; margin-bottom: 10px; font-size: 18px; color: #333;">
